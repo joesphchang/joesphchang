@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Joey Chang</h1>
-<h3 align="center">Full Stack Developer / Creative Strategist</h3>
+<h1 align="left">Hello There! I'm Joey Chang 👨🏻‍🎨</h1>
+<h3 align="left">Full Stack Developer / Creative Strategist</h3>
 <img align="center" src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" width= 75%; />
 
 - 🌱 I’m currently learning **back-end and mastering react**
 
-- 👨‍💻 All of my projects are available at [www.avantogarde.com/](www.avantogarde.com/)
+- 👨‍💻 All of my projects are available at [https://joeychang.netlify.app/](https://joeychang.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript and CSS**
 
