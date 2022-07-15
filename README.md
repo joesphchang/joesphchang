@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **back-end and mastering react**
 
-- 👨‍💻 All of my projects are available at [https://joeychang.netlify.app/](https://joeychang.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.thejoeychang.com/](https://www.thejoeychang.com/)
 
 - 💬 Ask me about **React, JavaScript and CSS**
 
